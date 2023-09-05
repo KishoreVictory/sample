@@ -1,2 +1,2 @@
 # sample
-Examples of machine learning
+machine learning
